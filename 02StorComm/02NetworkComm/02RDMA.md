@@ -183,8 +183,11 @@ RoCE 使得基于以太网的数据传输能够：提高数据传输吞吐量、
 国内
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> 257bf56 (add lossless)
 - **华为**：其产品鲲鹏 920 芯片支持 RoCEv2
 - **浪潮信息**：推出了 AI 服务器产品（如 NF5488A5），同时支持**InfiniBand**和**RoCEv2**
 - **中兴**：“定海”系列 DPU 芯片，在 RDMA 领域主要围绕**RoCEv2**技术，
@@ -344,12 +347,19 @@ $$
 
 ![img](./images/ztrcc_bandwidth.png)
 =======
+<<<<<<< HEAD
+>>>>>>> 257bf56 (add lossless)
+=======
 >>>>>>> 257bf56 (add lossless)
 - **华为**：其产品鲲鹏920芯片支持RoCEv2
 - **浪潮信息**：推出了AI服务器产品（如NF5488A5），同时支持**InfiniBand**和**RoCEv2**
 - **中兴**：“定海”系列DPU芯片，在RDMA领域主要围绕**RoCEv2**技术，
 - **锐捷网络**：数据中心交换机产品线（如RG-N18000系列）支持构建**RoCEv2**所需的无损网络
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 53d960c (add lossless)
+>>>>>>> 257bf56 (add lossless)
 =======
 >>>>>>> 53d960c (add lossless)
 >>>>>>> 257bf56 (add lossless)
@@ -361,14 +371,20 @@ RDMA 并非在大模型兴起之后才出现的新技术，它早已在高性能
 ## 参考
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> 257bf56 (add lossless)
 - [RDMA 技术梳理](https://www.meemx.com/p/everything-about-rdma/)
 - [SNIC 研讨会 PPT](https://www.meemx.com/files/Everything-You-Wanted-to-Know-About-RDMA-But-Were-Too-Proud-to-Ask-Final-v2.pdf)
 - [详谈 RDMA 技术原理和三种实现方式](https://zhuanlan.zhihu.com/p/549434847)
 - [RDMA 之 iWARP & Soft-iWARP](https://zhuanlan.zhihu.com/p/449189540)
 - [RDMA 产业链投资机会全面深度梳理](https://mp.weixin.qq.com/s?__biz=MzkxMDQxMjM4MQ==&mid=2247491379&idx=1&sn=d2253ec7246ccab54449150b0035018b&chksm=c04c7d268f481aeb6586dfaed434484eec60f95ce0841cce62e62a311b3dbe6a5eea335f8251#rd)
 - [RDMA 概述](https://zhuanlan.zhihu.com/p/138874738)
+=======
+<<<<<<< HEAD
+>>>>>>> 257bf56 (add lossless)
 =======
 >>>>>>> 257bf56 (add lossless)
 - [RDMA技术梳理](https://www.meemx.com/p/everything-about-rdma/)
@@ -378,6 +394,10 @@ RDMA 并非在大模型兴起之后才出现的新技术，它早已在高性能
 - [RDMA产业链投资机会全面深度梳理](https://mp.weixin.qq.com/s?__biz=MzkxMDQxMjM4MQ==&mid=2247491379&idx=1&sn=d2253ec7246ccab54449150b0035018b&chksm=c04c7d268f481aeb6586dfaed434484eec60f95ce0841cce62e62a311b3dbe6a5eea335f8251#rd)
 - [RDMA概述](https://zhuanlan.zhihu.com/p/138874738)
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 53d960c (add lossless)
+>>>>>>> 257bf56 (add lossless)
 =======
 >>>>>>> 53d960c (add lossless)
 >>>>>>> 257bf56 (add lossless)
